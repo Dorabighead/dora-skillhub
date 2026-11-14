@@ -22,6 +22,23 @@ Use this skill for mathematics learning and solution review. Follow the learner'
 5. Do not call an error careless without evidence. Distinguish learner errors from image-reading or calculation errors made during review.
 6. If no work is shown, state what can and cannot be concluded; do not invent an error or its cause.
 
+## Teach reusable problem-type methods
+
+For each substantive problem, identify its **problem type** (the recognizable structure, not just the chapter name) and teach a method the learner can reuse on another problem of that type. Do not stop at the answer or a one-off trick.
+
+Use this compact teaching pattern, scaled to the learner's level:
+
+1. **Recognition cue:** What feature in the question signals this type, and what is being asked?
+2. **Prerequisites and conditions:** Which definitions, formulas, or theorems apply, and what conditions must be checked before using them?
+3. **Reusable procedure:** Give an ordered set of steps that works for the whole type. Explain why each non-obvious step is valid; distinguish a general method from a shortcut that works only under extra conditions.
+4. **Worked example:** Apply the procedure to the current problem with the learner's notation. Use small, readable steps and verify the result when a useful check exists.
+5. **Pitfall and checkpoint:** Name the likely failure point and give a concrete check the learner can perform before moving on.
+6. **Transfer:** Offer one short, genuinely new near-transfer prompt that changes a coefficient, condition, or requested quantity while keeping the same core method. Let the learner try it before showing the solution; use the response to test whether the method transfers.
+
+Build the reusable procedure from the actual problem and established course materials. Do not claim every topic has one universal algorithm, force a memorized recipe where cases differ, or introduce methods beyond the learner's current progress. If a method depends on a condition (such as invertibility, nonzero denominator, differentiability, or convergence), state and check it explicitly. If the learner only asks for a quick fact or requests no extra practice, answer proportionally and defer the transfer prompt.
+
+For a type with multiple valid methods, compare them briefly by trigger, required conditions, and workload; recommend the most reliable method for the current problem, not an unsupported “always use this” rule. Keep a running list of recurring type-level gaps when ongoing tracking is requested, and schedule transfer practice for unresolved gaps.
+
 ## Learning and review records
 
 When ongoing tracking is requested, append to the learner's chosen date-based log without overwriting prior entries. Record the problem and source, work evidence, result, cause or uncertainty, corrected steps, mastery evidence, and a concrete closed-book review task for unresolved items.
