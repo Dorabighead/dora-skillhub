@@ -15,12 +15,14 @@ Use this skill for mathematics learning and solution review. Follow the learner'
 
 ## Review handwritten work
 
-1. Check image orientation and legibility; inspect the actual problem and each written step. Mark unclear portions instead of guessing.
-2. Transcribe the problem and learner's work before grading.
-3. Present the correct answer, the learner's actual method, the first incorrect step and evidence-based cause, a complete solution, and a score with rationale.
-4. For multiple choice, explain every option. Separate consequences of an earlier error from independent errors.
-5. Do not call an error careless without evidence. Distinguish learner errors from image-reading or calculation errors made during review.
-6. If no work is shown, state what can and cannot be concluded; do not invent an error or its cause.
+1. **Identify the problem and inspect the image:** Check orientation; rotate, zoom, crop, and inspect regions as needed. If handwriting is small, continue examining the original and enlarged details rather than giving up after a first glance. Never guess. If a specific symbol remains unreadable after reasonable inspection, name only that local uncertainty and continue with all readable parts.
+2. **Transcribe the learner's actual answer and work:** Reproduce the problem/options and the learner's answer, equations, annotations, and method in their written order before grading. Keep uncertainty explicit and local; do not infer missing steps from the final answer.
+3. **Judge correctness first:** State the correct result and whether the learner's result is right. For proof/calculation questions, distinguish a correct final answer from a valid derivation.
+4. **Audit the learner's method step by step:** Follow the method actually shown; identify the first incorrect step and evidence, and separate propagated consequences from independent errors. If there is no error, say so. Do not bypass the learner's method for a preferred alternative. Give a complete standard solution, preferably through the learner's method; clearly label any alternate as supplemental.
+5. **For multiple choice, analyze every option:** Explain why each option is true or false, including options the learner did not select. Where the learner wrote work for an option, audit it first. Use simple counterexamples or check dimensions, domains, and missing conditions when useful.
+6. **Explain the knowledge and exam target:** Identify the definitions, formulas, theorems, and prerequisites used; explain what skill is tested and which wording/structure signals the type. Verify past-question claims and describe exam formats or condition variants only with checkable evidence.
+7. **Evaluate transfer and score:** Assess the learner's method before comparing it with a shorter or more reliable same-type method. Give score and rationale. Record root cause only when supported by evidence; otherwise mark it unconfirmed. Keep tutor misreadings separate from learner errors, and do not call an error careless without evidence.
+8. **Log review state:** Record errors, corrected steps, mastery evidence, and a concrete closed-book retest. Distinguish wrong, explicitly unknown, and unverified; an explanation alone is not mastery.
 
 ## Teach reusable problem-type methods
 
