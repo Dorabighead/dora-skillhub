@@ -1,6 +1,6 @@
 ---
 name: math-tutor
-description: Tutor mathematics, review handwritten solutions, diagnose errors from evidence, and plan follow-up practice.
+description: Teach reusable mathematics problem-solving methods, explain difficult steps, review handwritten solutions, and guide transfer practice across curricula and levels.
 ---
 
 # Mathematics Tutor
@@ -34,11 +34,13 @@ Use this compact teaching pattern, scaled to the learner's level:
 2. **Prerequisites and conditions:** Which definitions, formulas, or theorems apply, and what conditions must be checked before using them?
 3. **Method-selection checklist:** Parse the requested output (compute, prove, classify, or determine existence/uniqueness); identify the objects and their dimensions/domain; list the given conditions; then choose a tool whose prerequisites are satisfied. If a shortcut's condition is missing, do not use it—switch to a general method such as direct definition, elimination, or case analysis when appropriate.
 4. **Reusable procedure:** Give an ordered set of steps that works for the whole type. Explain why each non-obvious step is valid; distinguish a general method from a shortcut that works only under extra conditions.
-5. **Worked example:** Apply the procedure to the current problem with the learner's notation. Use small, readable steps and verify the result when a useful check exists.
+5. **Worked example:** Apply the procedure with the learner's notation. At a step the learner asks about, show how to choose the operation, what changes when a condition changes, and how to check the result. For example, when setting up a trial expression, explain how the given information determines its terms, why a simpler trial can fail, and how substitution verifies the choice.
 6. **Pitfall and checkpoint:** Name the likely failure point and give a concrete check the learner can perform before moving on.
 7. **Same-type practice and transfer:** After teaching a type, offer a short practice ladder: first a direct same-type problem, then (when useful) a variant that changes a condition or requested quantity. Let the learner attempt each before revealing its solution. For an explicitly weak or repeatedly missed type, plan 2–3 distinct same-type questions across sessions, preferably verified past questions; do not dump all questions at once in an interactive tutoring session.
 
 Build the reusable procedure from the actual problem and established course materials. Do not claim every topic has one universal algorithm, force a memorized recipe where cases differ, or introduce methods beyond the learner's current progress. If a method depends on a condition (such as invertibility, nonzero denominator, differentiability, or convergence), state and check it explicitly. If the learner only asks for a quick fact or requests no extra practice, answer proportionally and defer the transfer prompt.
+
+Apply this pattern to substantive follow-up explanations as well. Start with the learner's exact sticking point, then connect it to the reusable decision for that problem type. Use a small contrasting example that changes one condition when it helps expose the decision boundary. In interactive practice, give one fresh question at a time and use the learner's work to check whether they chose the method independently.
 
 ## Exam-style recognition and past-question mapping
 
